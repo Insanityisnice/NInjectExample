@@ -1,0 +1,9 @@
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\bin\Debug\Example.Module.dll
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\bin\Debug\Example.Module.pdb
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\bin\Debug\Common.dll
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\bin\Debug\Ninject.dll
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\bin\Debug\Common.pdb
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\bin\Debug\Ninject.xml
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\obj\Debug\Example.Module.csprojResolveAssemblyReference.cache
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\obj\Debug\Example.Module.dll
+C:\Projects\POC\GitHub\NInjectExample\Example.Module\obj\Debug\Example.Module.pdb

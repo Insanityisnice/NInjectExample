@@ -1,0 +1,4 @@
+C:\Projects\POC\GitHub\NInjectExample\Common\bin\Debug\Common.dll
+C:\Projects\POC\GitHub\NInjectExample\Common\bin\Debug\Common.pdb
+C:\Projects\POC\GitHub\NInjectExample\Common\obj\Debug\Common.dll
+C:\Projects\POC\GitHub\NInjectExample\Common\obj\Debug\Common.pdb
